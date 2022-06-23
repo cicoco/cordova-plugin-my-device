@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-device-tests",
-  "version": "2.1.1-dev",
+  "name": "cordova-plugin-my-device-tests",
+  "version": "1.0.0",
   "description": "",
   "cordova": {
-    "id": "cordova-plugin-device-tests",
+    "id": "cordova-plugin-my-device-tests",
     "platforms": []
   },
   "keywords": [
