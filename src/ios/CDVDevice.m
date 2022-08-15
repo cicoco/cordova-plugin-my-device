@@ -53,7 +53,7 @@
 
 - (NSString*)uniqueAppInstanceIdentifier:(UIDevice*)device
 {
-    return "";
+    return @"";
     // NSUserDefaults* userDefaults = [NSUserDefaults standardUserDefaults];
     // static NSString* UUID_KEY = @"CDVUUID";
 
